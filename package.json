@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "chart.js": "^4.2.1",
+    "chartjs-plugin-annotation": "^2.1.2",
     "chartjs-plugin-zoom": "^2.0.0",
+    "faker": "^5.5.3",
     "file-saver": "^2.0.5",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
@@ -22,7 +24,7 @@
     "victory": "^36.6.8"
   },
   "devDependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^5.5.9",
     "@types/file-saver": "^2.0.5",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
